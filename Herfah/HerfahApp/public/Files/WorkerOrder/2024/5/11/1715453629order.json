@@ -1,0 +1,27 @@
+{
+    "UserId": "17",
+    "FirstName": "Mohammed",
+    "email": "moosadiq11@gmail.com",
+    "Gender": "ذكر",
+    "PhoneNumber": "773021206",
+    "BirthDate": "2000-07-10",
+    "JobTitle": "طلاء",
+    "Info": "Ruff hmgh yfjghn n",
+    "Image": "Images\\2024\\5\\11\\Worker\\Covers/carpentry.jpg",
+    "CoverImage": "Images\\2024\\5\\11\\Worker/decoriatton.jpg",
+    "PricePerHour": "3500",
+    "PricePerMatter": "5000",
+    "0": "projects",
+    "projects": {
+        "projectName0": {
+            "about": "dashboarddashboarddashboard",
+            "Images": [
+                "Images\\2024\\5\\11\\portfolios/constructor.jpg",
+                "Images\\2024\\5\\11\\portfolios/tiler.jpg",
+                "Images\\2024\\5\\11\\portfolios/painter.jpg",
+                "Images\\2024\\5\\11\\portfolios/electrical.jpg",
+                "Images\\2024\\5\\11\\portfolios/Plumbing.jpg"
+            ]
+        }
+    }
+}

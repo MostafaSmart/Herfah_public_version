@@ -1,0 +1,22 @@
+{"UserId":"3",
+"FirstName":"Ali",
+"email":"almosanif1095@gmail.com",
+"Gender":"ذكر",
+"PhoneNumber":"+967775523965",
+"BirthDate":"2024-05-30",
+"JobTitle":"طلاء",
+"Info":"Helooooo",
+"Image":"Images\\2024\\5\\5\\Worker\\Covers\/course-01.jpg",
+"CoverImage":"Images\\2024\\5\\5\\Worker\/avatar.png",
+"PricePerHour":"200",
+"PricePerMatter":"1000",
+"0":"projects",
+"projects":{
+    "projectName0":{
+        "about":"IT Projec",
+        "Images":[
+            "Images\\2024\\5\\5\\portfolios\/activity-01 - Copy.png",
+            "Images\\2024\\5\\5\\portfolios\/activity-01.png",
+            "Images\\2024\\5\\5\\portfolios\/activity-02.png",
+            "Images\\2024\\5\\5\\portfolios\/activity-03 - Copy.png",
+            "Images\\2024\\5\\5\\portfolios\/course-03 - Copy.jpg"]}}}

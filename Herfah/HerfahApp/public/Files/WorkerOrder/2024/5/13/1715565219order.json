@@ -1,0 +1,25 @@
+{
+    "UserId": "18",
+    "FirstName": "Mohammed",
+    "email": "moosadiq11@gmail.com",
+    "Gender": "ذكر",
+    "PhoneNumber": "773021206",
+    "BirthDate": "2000-07-10",
+    "JobTitle": "سباكة",
+    "Info": "بإنشائه",
+    "Image": "Images\\2024\\5\\13\\Worker\\Covers/decoriatton.jpg",
+    "CoverImage": "Images\\2024\\5\\13\\Worker/decoriatton.jpg",
+    "PricePerHour": "5000",
+    "PricePerMatter": "5000",
+    "0": "projects",
+    "projects": {
+        "projectName0": {
+            "about": "updated_atupdated_at",
+            "Images": [
+                "Images\\2024\\5\\13\\portfolios/decoriatton.jpg",
+                "Images\\2024\\5\\13\\portfolios/carpentry.jpg",
+                "Images\\2024\\5\\13\\portfolios/download (1).jpg"
+            ]
+        }
+    }
+}

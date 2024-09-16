@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "cat_image": "product-1.png",
+      "categories": "Smart Phone",
+      "category_detail": "Choose from wide range of smartphones from popular brands",
+      "total_workers": 129
+    },
+    {
+      "id": 2,
+      "cat_image": "product-2.png",
+      "categories": "Electronics",
+      "category_detail": "Choose from wide range of electronics from popular brands",
+      "total_workers": 50
+    },
+    {
+      "id": 3,
+      "cat_image": "product-3.png",
+      "categories": "Clocks",
+      "category_detail": "Choose from wide range of clocks from popular brands",
+      "total_workers":34
+    },
+    {
+      "id": 4,
+      "cat_image": "product-4.png",
+      "categories": "Shoes",
+      "category_detail": "Explore the latest shoes from Top brands",
+      "total_workers": 98
+    },
+    {
+      "id": 5,
+      "cat_image": "product-5.png",
+      "categories": "Accessories",
+      "category_detail": "Explore best selling accessories from Top brands",
+      "total_workers": 29
+    },
+    {
+      "id": 6,
+      "cat_image": "product-6.png",
+      "categories": "Games",
+      "category_detail": "Dive into world of Virtual Reality with latest games",
+      "total_workers": 29
+    },
+    {
+      "id": 7,
+      "cat_image": "product-10.png",
+      "categories": "Home Decor",
+      "category_detail": "Choose from wide range of home decor from popular brands",
+      "total_workers": 21
+    },
+    {
+      "id": 8,
+      "cat_image": "product-16.png",
+      "categories": "Travel",
+      "category_detail": "Choose from wide range of travel accessories from popular brands",
+      "total_workers": 99
+    },
+    {
+      "id": 9,
+      "cat_image": "product-21.png",
+      "categories": "Baby Products",
+      "category_detail": "Choose from wide range of Baby products from popular brands",
+      "total_workers": 9
+    },
+    {
+      "id": 10,
+      "cat_image": "product-22.png",
+      "categories": "Jewellery",
+      "category_detail": "Choose from wide range of Jewellery from popular brands",
+      "total_workers": 49
+    }
+  ]
+}

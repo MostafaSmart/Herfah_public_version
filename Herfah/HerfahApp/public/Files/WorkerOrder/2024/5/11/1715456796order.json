@@ -1,0 +1,27 @@
+{
+    "UserId": "18",
+    "FirstName": "Asem",
+    "email": "asem@gmail.com",
+    "Gender": "ذكر",
+    "PhoneNumber": "777888555",
+    "BirthDate": "2000-10-02",
+    "JobTitle": "سباكة",
+    "Info": "Run",
+    "Image": "Images\\2024\\5\\11\\Worker\\Covers/decoriatton.jpg",
+    "CoverImage": "Images\\2024\\5\\11\\Worker/decoriatton.jpg",
+    "PricePerHour": "8000",
+    "PricePerMatter": "5010",
+    "0": "projects",
+    "projects": {
+        "projectName0": {
+            "about": "ل الحفظ برجاء المحاول",
+            "Images": [
+                "Images\\2024\\5\\11\\portfolios/decoriatton.jpg",
+                "Images\\2024\\5\\11\\portfolios/carpentry.jpg",
+                "Images\\2024\\5\\11\\portfolios/download (1).jpg",
+                "Images\\2024\\5\\11\\portfolios/constructor.jpg",
+                "Images\\2024\\5\\11\\portfolios/tiler.jpg"
+            ]
+        }
+    }
+}

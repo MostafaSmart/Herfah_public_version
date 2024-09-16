@@ -1,0 +1,104 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "full_name": "Galen Slixby",
+        "role": "Admin",
+        "username": "gslixby0",
+        "email": "gslixby0@abc.net.au",
+        "phone_num": "+967778963214",
+        "status": 3,
+        "avatar": ""
+      },
+      {
+        "id": 2,
+        "full_name": "Halsey Redmore",
+        "role": "Author",
+        "username": "hredmore1",
+        "email": "hredmore1@imgur.com",
+        "phone_num": "+967778963214",
+        "status": 1,
+        "avatar": "10.png"
+      },
+      {
+        "id": 3,
+        "full_name": "Marjory Sicely",
+        "role": "Maintainer",
+        "username": "msicely2",
+        "email": "msicely2@who.int",
+        "phone_num": "+967778963214",
+        "status": 2,
+        "avatar": "1.png"
+      },
+      {
+        "id": 4,
+        "full_name": "Cyrill Risby",
+        "role": "Maintainer",
+        "username": "crisby3",
+        "email": "crisby3@wordpress.com",
+        "phone_num": "+967778963214",
+        "status": 3,
+        "avatar": "9.png"
+      },
+      {
+        "id": 5,
+        "full_name": "Maggy Hurran",
+        "role": "Subscriber",
+        "username": "mhurran4",
+        "email": "mhurran4@yahoo.co.jp",
+        "phone_num": "+967778963214",
+        "status": 1,
+        "avatar": "10.png"
+      },
+      {
+        "id": 6,
+        "full_name": "Silvain Halstead",
+        "role": "Author",
+        "username": "shalstead5",
+        "email": "shalstead5@shinystat.com",
+        "phone_num": "+967778963214",
+        "status": 2,
+        "avatar": ""
+      },
+      {
+        "id": 7,
+        "full_name": "Breena Gallemore",
+        "role": "Subscriber",
+        "username": "bgallemore6",
+        "email": "bgallemore6@boston.com",
+        "phone_num": "+967778963214",
+        "status": 1,
+        "avatar": ""
+      },
+      {
+        "id": 8,
+        "full_name": "Kathryne Liger",
+        "role": "Author",
+        "username": "kliger7",
+        "email": "kliger7@vinaora.com",
+        "phone_num": "+967778963214",
+        "status": 1,
+        "avatar": "9.png"
+      },
+      {
+        "id": 9,
+        "full_name": "Franz Scotfurth",
+        "role": "Subscriber",
+        "username": "fscotfurth8",
+        "email": "fscotfurth8@dailymotion.com",
+        "phone_num": "+967778963214",
+        "status": 1,
+        "avatar": "2.png"
+      },
+      {
+        "id": 10,
+        "full_name": "Jillene Bellany",
+        "role": "Maintainer",
+        "username": "jbellany9",
+        "email": "jbellany9@kickstarter.com",
+        "phone_num": "+967778963214",
+        "status": 3,
+        "avatar": "9.png"
+      }
+    ]
+  }
